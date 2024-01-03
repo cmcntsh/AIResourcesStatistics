@@ -20,3 +20,11 @@ Prompt:
 ```
 Please give me instructions for running [name of test] in [name of program]
 ```
+
+### Getting help understanding concepts
+
+Prompt:
+
+```
+Please explain the statistical concept of [name of concept] to me.
+```
